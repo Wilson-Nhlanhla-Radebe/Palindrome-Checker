@@ -1,0 +1,48 @@
+body {
+  text-align: center;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-weight: bolder;
+  font-size: x-large;
+  border: 0px dashed black;
+  margin-top: 100px;
+  margin-left: 250px;
+  margin-right: 250px;
+  background-image: url(Images/background5.jpeg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+h1 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: xxx-large;
+  font-weight: lighter;
+}
+.main-container {
+  text-align: center;
+  padding-bottom: 50px;
+  /* background-image: url(Images/background.jpeg); */
+  background-size: contain;
+  background-repeat: repeat;
+}
+
+input {
+  padding: 20px;
+  background-color: rgba(0, 0, 255, 0.034);
+  border-radius: 25px;
+  color: rgb(0, 0, 0);
+  font-family: "Times New Roman", Times, serif;
+  font-size: large;
+  border-color: rgb(30, 204, 210);
+}
+
+button {
+  padding: 15px;
+  border-radius: 15px;
+  background-color: rgb(30, 0, 202);
+  color: aliceblue;
+  font-weight: bolder;
+}
+
+button:hover {
+  background-image: radial-gradient(white, rgb(117, 117, 241));
+  color: black;
+}
