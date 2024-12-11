@@ -8,18 +8,17 @@ body {
   margin-left: 250px;
   margin-right: 250px;
   background-image: url(Images/background5.jpeg);
-  background-size: cover;
-  background-repeat: no-repeat;
+  background-size:cover;
+
 }
 h1 {
-  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   font-size: xxx-large;
   font-weight: lighter;
 }
 .main-container {
   text-align: center;
   padding-bottom: 50px;
-  /* background-image: url(Images/background.jpeg); */
   background-size: contain;
   background-repeat: repeat;
 }

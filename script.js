@@ -8,7 +8,7 @@ function submit() {
     return;
   }
 
-  if (word === word.split("").reverse().join("")) {
+  if (word.toUpperCase() === word.split("").reverse().join("").toUpperCase()) {
     display.innerText = `${word} is a palindrome!`;
   } else {
     display.innerText = `${word} is not a palindrome!`;
