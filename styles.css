@@ -8,11 +8,10 @@ body {
   margin-left: 250px;
   margin-right: 250px;
   background-image: url(Images/background5.jpeg);
-  background-size:cover;
-
+  background-size: cover;
 }
 h1 {
-  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
   font-size: xxx-large;
   font-weight: lighter;
 }
@@ -36,7 +35,7 @@ input {
 button {
   padding: 15px;
   border-radius: 15px;
-  background-color: rgb(30, 0, 202);
+  background-color: rgb(55, 175, 255);
   color: aliceblue;
   font-weight: bolder;
 }
